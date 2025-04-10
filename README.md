@@ -24,7 +24,7 @@ Landing page desenvolvida com foco total em performance, responsividade e intera
 
 ## 🧠 Autor
 
-Desenvolvido por [Vitor S.](https://github.com/seuusuario), com foco em estética, clareza de código e boas práticas de front-end.
+Desenvolvido por [Vitor Mendes](https://github.com/euvhmac), com foco em estética, clareza de código e boas práticas de front-end.
 
 ---
 
